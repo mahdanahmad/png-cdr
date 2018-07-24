@@ -1,0 +1,25 @@
+{
+  "name": "png-cdr",
+  "version": "0.0.0",
+  "description": "Scripts for PNG CDR",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahdanahmad/png-cdr.git"
+  },
+  "author": "mahdan.hasan@un.or.id",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahdanahmad/png-cdr/issues"
+  },
+  "homepage": "https://github.com/mahdanahmad/png-cdr#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}
